@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning JavaScript and React. Javascript is needed for React, so it would be a great idea to understand it well. I like it, cuz it is a bit similar to C++ (I mean something like "int rewriteTheArray(){...}" is close to "function rewriteTheArray(){...}". I really like this stuff) 
 - 💞️ I’m looking to collaborate on something with React. I have created this stuff just to share my apps. I just wanna be frontend developer, so GitHub is a good place to share my works b4 I found my first job (yeah, I am not a developer yet, but I really wanna be)
 - 📫 How to reach me: Discord: RISTAKON. I have no ideas what to add, cuz I don't wanna share my social networks
-- 😄 Pronouns: He/She (it doesn't, just call me using my nickname. Then you can call me either as a boy or a girl) 
+- 😄 Pronouns: He/She (it doesn't matter, just call me using my nickname. Then you can call me either as a boy or a girl) 
 - ⚡ Fun fact: Ima human
 - Why I did it: GitHub just asked, lol, no more
 
