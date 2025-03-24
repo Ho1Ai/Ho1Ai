@@ -9,6 +9,8 @@
 
 So, in case you are here, I wanna add one stuff: here I will drop EVERYTHING. No matter will it be just raw stuff which I wrote when I was learning React or it will be my portfolio works. I just wanna save it here or somewhere else. So, don't check some works. May be I'll add full list of 'em (works, which are not main), but now this list is empty (I haven't added anything. Today is 07/02/2024 (I mean July 2nd, 2024) so it may be updated... and also may be not updated... ugh, I can just forget about this stuff)  
 
+Update on 2025/03/25: Now I am learning different languages. I know Python, so I use it in pre-builds (yeah, if you see pipe (WaxusBS package manager) or smth else which is for Waxus and written in Python, then just know that all these things are just test versions. For example, pipe server will be rewritten in Rust/C++/Java (I guess, I'll choose Rust), pipe client will be rewritten in C, etc.) 
+
 <!---
 Ho1Ai/Ho1Ai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
