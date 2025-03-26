@@ -10,6 +10,7 @@
 So, in case you are here, I wanna add one stuff: here I will drop EVERYTHING. No matter will it be just raw stuff which I wrote when I was learning React or it will be my portfolio works. I just wanna save it here or somewhere else. So, don't check some works. May be I'll add full list of 'em (works, which are not main), but now this list is empty (I haven't added anything. Today is 07/02/2024 (I mean July 2nd, 2024) so it may be updated... and also may be not updated... ugh, I can just forget about this stuff)  
 
 Update on 2025/03/25: Now I am learning different languages. I know Python, so I use it in pre-builds (yeah, if you see pipe (WaxusBS package manager) or smth else which is for Waxus and written in Python, then just know that all these things are just test versions. For example, pipe server will be rewritten in Rust/C++/Java (I guess, I'll choose Rust), pipe client will be rewritten in C, etc. You had better know: Waxus has been started as a project, which one was just an attempt, in which I tried to run away from reality. If you wanna share something, please, don't touch things I am working on or gonna work on. You can add something to old versions, make forks, etc., but don't touch main files, please :') )
+
 P.S. 2025/03/25 gave me a lil bit more pain (no, not "a lil bit").
 
 <!---
