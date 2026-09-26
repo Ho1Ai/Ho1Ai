@@ -1,4 +1,4 @@
-I love spicy shawarma :)
+I love spicy shawarma :)  
 Well, not enough information comes from this... Then let me tell you about myself and my interests. I am Ho1Ai (real name is Ivan). I like C, C++, Rust and Assembly language. Also I like writing games using Godot. Started learning programming when I was 11. My first language, which I was writing for some time, was JS (React JS). Now I use C and C++ mostly. Also sometimes I use Java and Kotlin, but these languages are mostly used in my personal projects, which are not published here. Also I use Python for some API development (using FastAPI. Also I've used Flask for a small period of time, but didn't switch my main framework). This page I made in order to share my projects with people.
 
 <!---
