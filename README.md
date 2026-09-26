@@ -1,3 +1,7 @@
+I love spicy shawarma :)
+Well, not enough information comes from this... Then let me tell you about myself and my interests. I am Ho1Ai (real name is Ivan). I like C, C++, Rust and Assembly language. Also I like writing games using Godot. Started learning programming when I was 11. My first language, which I was writing for some time, was JS (React JS). Now I use C and C++ mostly. Also sometimes I use Java and Kotlin, but these languages are mostly used in my personal projects, which are not published here. Also I use Python for some API development (using FastAPI. Also I've used Flask for a small period of time, but didn't switch my main framework). This page I made in order to share my projects with people.
+
+<!---
 - 👋 Hi, I’m @Ho1Ai
 - 👀 I’m interested in programming. I am coding sometimes when I feel sad or I'm just bored. Once I wrote a game being sad and bored (I spent 6 month just to write small 2D game, cuz... I was writting this stuff only when I felt sad) 
 - 🌱 I’m currently learning JavaScript and React. Javascript is needed for React, so it would be a great idea to understand it well. I like it, cuz it is a bit similar to C++ (I mean something like "int rewriteTheArray(){...}" is close to "function rewriteTheArray(){...}". I really like this stuff) 
@@ -12,6 +16,7 @@ So, in case you are here, I wanna add one stuff: here I will drop EVERYTHING. No
 Update on 2025/03/25: Now I am learning different languages. I know Python, so I use it in pre-builds (yeah, if you see pipe (WaxusBS package manager) or smth else which is for Waxus and written in Python, then just know that all these things are just test versions. For example, pipe server will be rewritten in Rust/C++/Java (I guess, I'll choose Rust), pipe client will be rewritten in C, etc. You had better know: Waxus has been started as a project, which one was just an attempt, in which I tried to run away from reality. If you wanna share something, please, don't touch things I am working on or gonna work on. You can add something to old versions, make forks, etc., but don't touch main files, please :') )
 
 P.S. ugh, 2025/03/25 gave me a lil bit more pain (no, not "a lil bit").
+--->
 
 <!---
 Ho1Ai/Ho1Ai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
